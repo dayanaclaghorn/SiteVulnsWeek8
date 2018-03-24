@@ -18,26 +18,32 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQLI
 - [Link 1](https://github.com/dayanaclaghorn/SiteVulnsWeek8/blob/master/week8SQLI.gif)
+![](week8SQLI.gif)
 
 Vulnerability #2: Session Hacking
 - [Link 1](https://github.com/dayanaclaghorn/SiteVulnsWeek8/blob/master/week8SessionH.gif)
+![](week8SessionH.gif)
 
 ## Green
 
 Vulnerability #1: User Enumeration
 - [Link 1](https://github.com/dayanaclaghorn/SiteVulnsWeek8/blob/master/week8UE.gif)
+![](week8UE.gif)
 
 Vulnerability #2: XSS
 - [Link 1](https://github.com/dayanaclaghorn/SiteVulnsWeek8/blob/master/week8XSS.gif)
+![](week8XSS.gif)
 
 
 ## Red
 
 Vulnerability #1: IDOR
 - [Link 1](https://github.com/dayanaclaghorn/SiteVulnsWeek8/blob/master/week8IDOR.gif)
+![](week8IDOR.gif)
 
 Vulnerability #2:CSRF 
 - [Link 1](https://github.com/dayanaclaghorn/SiteVulnsWeek8/blob/master/week8CSRF.gif)
+![](week8CSRF.gif)
 
 
 ## Notes
