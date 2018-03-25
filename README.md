@@ -50,4 +50,4 @@ Vulnerability #2:CSRF
 ## Notes
 
 I had a hard time getting started. It was really difficult for me to get to a place where I new where to look for the vulnerabilities; I just tried any place where a user could put in input. Eventually, I started to look at more pointed locations based on where I new where that vulnerability was most likely. Two examples: I was about 99% sure that the SQLI was in the URL, but I didn’t escape it properly at first and wasn’t sure where to try (I figured it was in the user pages, but had trouble with why that was.) The XSS took me several tries to get it right, but I was pretty sure that it was to be committed in the form page. 
-I had a hard time maikng the formfor the CSRF challenge work because my sintax broke my Javascript and I had a hard time figuring out why.
+I had a hard time maikng the form for the CSRF challenge work because my syntax broke my Javascript and I had a hard time figuring out why.
